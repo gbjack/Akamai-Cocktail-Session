@@ -1,0 +1,2 @@
+# Akamai-Cocktail-Session
+eDM
